@@ -14,11 +14,8 @@ RecSys: to recommend the *appropriate* items to the *potential* users who are li
    * Three Challenges in CF
        - Cold start: new users and/or items
        - Scalability: future item expansion
-       - Sparsity: low user-item interaction. Users only hold a few out of tons of items.
-<br/>
+       - Sparsity: low user-item interaction. Users only hold a few out of tons of items.<br/>
 3. **Hybrid RecSys**: Combine Content-based and CF and can be implemented in several ways, which can help address the cold-start problem.
-    
-
 ### Reference:<br/>
 [wiki-Recommender System](https://en.wikipedia.org/wiki/Recommender_system)<br/>
 [Stanford-Recsys Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
