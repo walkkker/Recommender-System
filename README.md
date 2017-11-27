@@ -1,5 +1,5 @@
 # Recommender-System(RecSys)
-### Brief Summary:
+### Overview:
 RecSys: to recommend the *appropriate* items to the *potential* users who are likely to buy, subscribe, listen, watch...<br/>
 
 ### Approaches: 
@@ -15,9 +15,14 @@ RecSys: to recommend the *appropriate* items to the *potential* users who are li
        - Cold start: new users and/or items
        - Scalability: future item expansion
        - Sparsity: low user-item interaction. Users only hold a few out of tons of items.<br/>
-3. **Hybrid RecSys**: Combine Content-based and CF and can be implemented in several ways, which can help address the cold-start problem.
+3. **Hybrid RecSys**: Combine Content-based and CF and can be implemented in several ways.
+
+### Example: Netflix 
+This is a good reference to understand [matrix factorization](https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf) for RecSys applications.
+
 ### Reference:<br/>
 [wiki-Recommender System](https://en.wikipedia.org/wiki/Recommender_system)<br/>
 [Stanford-Recsys Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
+[Matrix Factorization Techniques For RecSys](https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)]
 
 
