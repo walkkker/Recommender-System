@@ -22,7 +22,7 @@ This is a good reference to understand [matrix factorization](https://endymecy.g
 
 ### Reference:<br/>
 [wiki-Recommender System](https://en.wikipedia.org/wiki/Recommender_system)<br/>
-[Stanford-Recsys Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)
-[Matrix Factorization Techniques For RecSys](https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)]
+[Stanford-Recsys Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)<br/>
+[Matrix Factorization Techniques For RecSys](https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf)
 
 
