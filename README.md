@@ -20,6 +20,8 @@ RecSys: to recommend the *appropriate* items to the *potential* users who are li
 ### Classical example: Netflix 
 This is a good reference and tutorial to understand [matrix factorization](https://endymecy.gitbooks.io/spark-ml-source-analysis/content/%E6%8E%A8%E8%8D%90/papers/Matrix%20Factorization%20Techniques%20for%20Recommender%20Systems.pdf) for RecSys applications. 
 
+### Packages:
++ [lightfm](http://lyst.github.io/lightfm/docs/home.html)
 ### Reference:<br/>
 [wiki-Recommender System](https://en.wikipedia.org/wiki/Recommender_system)<br/>
 [Stanford-Recsys Chapter 9](http://infolab.stanford.edu/~ullman/mmds/ch9.pdf)<br/>
